@@ -1,0 +1,16 @@
+{
+  "name": "flightbooker",
+  "version": "1.0.0",
+  "description": "website for booking flights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "autumndev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  }
+}
